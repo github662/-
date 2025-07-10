@@ -53,3 +53,7 @@ The books involved in the dataset are as follows:
 
 [19] Yang Dongmiao, et al. 100 Selected Ceiling Paintings from Dunhuang through the Dynasties [M]. Hangzhou: Zhejiang Ancient Books Publishing House, 2008.
 
+通过网盘分享的文件：敦煌壁画
+链接: https://pan.baidu.com/s/1LRmqU6dquzfVINcLIaM6vA 提取码: ws9n
+
+
