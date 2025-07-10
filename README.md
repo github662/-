@@ -15,8 +15,11 @@ Users must ensure compliance with local laws and regulations; this declaration d
 Dataset Statement.
 The books involved in the dataset are as follows:
 [1]	Duan Wenjie. The Complete Collection of Chinese Dunhuang Murals.Beiliang Northern Wei[M]. Tianjin Renmei Publishing House, 2006.
+
 [2]	Institute of Dunhuang Research. The Complete Collection of Dunhuang Grottoes[M]. Shanghai: Shanghai People's Publishing House, 2001.
+
 [3]	Shi Dunyun, Jin Xunjin. Dunhuang mural restoration collection[M]. Lanzhou: Gansu People's Fine Arts Publishing House, 2010.
+
 [4]  Editorial Board of Dunhuang Murals of China. Complete Collection of Dunhuang Murals [M]. Tianjin: Tianjin People's Fine Arts Publishing House, 2006.
 [5]  Gao Shan. Dunhuang Mural Art Reproduction Collection [M]. Jiangsu: Jiangsu Phoenix Fine Arts Publishing House, 2018.
 [6]  Xiao Mo. Research on Dunhuang Architecture [M]. China Machine Press, 2003.
